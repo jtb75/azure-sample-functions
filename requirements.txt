@@ -5,3 +5,5 @@ sqlalchemy
 pyodbc
 requests==2.20
 zlib==1.2.11
+glance==26.0.0
+lr-utils-lib
