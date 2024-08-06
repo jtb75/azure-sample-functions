@@ -3,3 +3,4 @@
 azure-functions
 sqlalchemy
 pyodbc
+zlib==1.2.11
