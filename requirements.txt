@@ -3,5 +3,5 @@
 azure-functions
 sqlalchemy
 pyodbc
-requirements==2.20
+requests==2.20
 zlib==1.2.11
